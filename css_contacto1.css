@@ -1,0 +1,110 @@
+body {
+	text-align: center;
+	float: left;
+	height: 270px;
+	width: 500px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 11.5px;
+	line-height: normal;
+	font-weight: bold;
+	color: #F2F1F0;
+	vertical-align: top;
+	overflow-x: hidden;
+}
+
+
+#contenedor {
+	width: 1024px;
+	text-align: center;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	background-color: #F2F1F0;
+	height: auto;
+	background-color: #F2F1F0;
+}
+
+.contactosol {
+	float: left;
+	height: 85px;
+	width: 230px;
+	background-color: #252525;
+	color: #F2F1F0;
+	overflow: hidden;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.contacto {
+	border-right-style: none;
+	border-bottom-style: none;
+	border-right-color: #FBB900;
+	border-bottom-color: #FBB900;
+	float: left;
+	height: 20px;
+	width: 230px;
+	background-color: #252525;
+	border-top-style: none;
+	border-left-style: none;
+	color: #F2F1F0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.enviar {
+	color: #252525;
+	background-color: #FBB900;
+	float: left;
+	height: 20px;
+	width: 60px;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: bottom;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin-top: 68px;
+	margin-left: 5px;
+}
+
+
+#coltxt_formu {
+	float: left;
+	width: 250px;
+	text-align: left;
+	margin-top: 5px;
+}
+
+#coltxt_formu2 {
+	float: left;
+	width: 300px;
+	text-align: left;
+	margin-top: 5px;
+	height: 130px;
+}
+
+
+
+.subt {
+	font-size: 24px;
+	font-weight: lighter;
+	line-height: 30px;
+	margin-top: 10px;
+}
+
+
+
+#col2_alto {
+	float: left;
+	height: 370px;
+	width: 374px;
+	margin-right: 15px;
+	text-align: left;
+}
